@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+## Packages Used
+- Next.js/React
+- TypeScript
+- Shadcn/ui
+- Tailwind CSS
+- Recharts
+- Lucide React
+- React Hook Form
+- Zod
+
 ## Getting Started
 
 First, run the development server:
